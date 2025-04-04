@@ -11,12 +11,23 @@ In my free time, I love playing golf and badminton.
 
 ## Courses Taken
 [CS 374 Algorithms](https://siebelschool.illinois.edu/academics/courses/cs374) 
+
 [ECE 391 Computer Systems Organizations/Operating Systems]
+
 [ECE 385 Digital Systems (FPGA)]
+
 [CS 446 Machine Learning]
+
+[CS 425 Distributed Systems]
+
 [ECE 434 Mobile Computing IOT]
+
 [CS 447 NLP]
+
 [ECE 310 Digital Signal Processing]
+
+[ECE 342 Circuits]
+
 
 
 ## Projects
