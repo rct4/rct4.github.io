@@ -1,11 +1,14 @@
-# Welcome to My Portfolio 👋
-Hi, I'm a **CS student** passionate about **embedded systems and software development**.
+# Ryan Thammakhoune
+Master of Computer Science '26.
+BS Computer Engineering '25. Graduated with Honors.
 
-## Projects 🚀
-- **[Project 1](#)**: Description here
+
+
+## Projects
+- **[Project 1](#)**: Autonomous Soil Monitoring Rover
 - **[Project 2](#)**: Description here
 
-## About Me 🛠️
+## About Me
 I'm interested in **startups, hardware acceleration, and high-performance computing**.
 
 ---
