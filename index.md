@@ -1,15 +1,13 @@
-# Ryan Thammakhoune
-Master of Computer Science '26.
-BS Computer Engineering '25. Graduated with Honors.
+---
+layout: default
+---
 
+# About Me
+I am a Master's student at the University of Illinois Urbana-Champaign studying Computer Science. I graduated with a degree in Computer Engineering with honors from UIUC.
 
+## Courses Taken
 
 ## Projects
-- **[Project 1](#)**: Autonomous Soil Monitoring Rover
-- **[Project 2](#)**: Description here
-
-## About Me
-I'm interested in **startups, hardware acceleration, and high-performance computing**.
 
 ---
 _Built with [Jekyll](https://jekyllrb.com/) and hosted on GitHub Pages._
