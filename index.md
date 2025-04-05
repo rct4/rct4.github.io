@@ -9,22 +9,22 @@ I have interned at Intel and Northrup Grumman, with experience with High Perform
 
 In my free time, I love playing badminton and exploring the Pacific Northwest.
 
-<button onclick="toggleText()" style="margin-top: 10px;">Show More</button>
-
-<div id="extraText" style="display: none; margin-top: 10px;">
-  <p>This is the extra content that shows up when you click the button! You can write about your project details, responsibilities, challenges, or anything else you want.</p>
+<h3 style="cursor: pointer; color: #0366d6;" onclick="toggleText(this)">
+  ▶️ Project Title
+</h3>
+<div id="extraText" style="display: none; margin-left: 1rem; margin-top: 0.5rem;">
+  <p>This is more info about the project — tools used, what you built, cool problems you solved, etc.</p>
 </div>
 
 <script>
-  function toggleText() {
-    var text = document.getElementById("extraText");
-    var btn = event.target;
-    if (text.style.display === "none") {
-      text.style.display = "block";
-      btn.textContent = "Show Less";
+  function toggleText(header) {
+    var content = header.nextElementSibling;
+    if (content.style.display === "none" || content.style.display === "") {
+      content.style.display = "block";
+      header.innerHTML = "🔽 Project Title";
     } else {
-      text.style.display = "none";
-      btn.textContent = "Show More";
+      content.style.display = "none";
+      header.innerHTML = "▶️ Project Title";
     }
   }
 </script>
