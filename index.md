@@ -9,9 +9,9 @@ I have interned at Intel and Northrup Grumman, with experience with High Perform
 
 In my free time, I love playing badminton and exploring the Pacific Northwest.
 
-<h3 style="cursor: pointer; color: #0366d6;" onclick="toggleText(this)">
-  ▶️ Project Title
-</h3>
+<h2 style="cursor: pointer; color: #0366d6;" onclick="toggleText(this)">
+  Courses Taken
+</h2>
 <div id="extraText" style="display: none; margin-left: 1rem; margin-top: 0.5rem;">
   <p>This is more info about the project — tools used, what you built, cool problems you solved, etc.</p>
 </div>
@@ -21,10 +21,10 @@ In my free time, I love playing badminton and exploring the Pacific Northwest.
     var content = header.nextElementSibling;
     if (content.style.display === "none" || content.style.display === "") {
       content.style.display = "block";
-      header.innerHTML = "🔽 Project Title";
+    //   header.innerHTML = "Cour";
     } else {
       content.style.display = "none";
-      header.innerHTML = "▶️ Project Title";
+    //   header.innerHTML = "▶️ Project Title";
     }
   }
 </script>
