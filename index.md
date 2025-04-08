@@ -14,6 +14,7 @@ In my free time, I love playing badminton and exploring the Pacific Northwest.
 </h2>
 <div id="extraText" style="display: none; margin-left: 1rem; margin-top: 0.5rem;">
   <p>This is more info about the project — tools used, what you built, cool problems you solved, etc.</p>
+  <a href = https://siebelschool.illinois.edu/academics/courses/cs374> CS 374 Algorithms </a>
 </div>
 
 <script>
@@ -29,7 +30,6 @@ In my free time, I love playing badminton and exploring the Pacific Northwest.
   }
 </script>
 
-## Courses Taken
 [CS 374 Algorithms](https://siebelschool.illinois.edu/academics/courses/cs374) 
 
 [ECE 391 Computer Systems Organizations/Operating Systems]
